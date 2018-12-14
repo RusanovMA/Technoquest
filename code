@@ -1,0 +1,5 @@
+program HelloTechnoQuest;
+
+begin
+    writeln('Hello, TechnoQuest!!!');
+end.
